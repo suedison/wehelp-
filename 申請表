@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>wehelp 申請書</title>
+    <style type="text/css"></style>
+</head>
+<body  style="margin:0px;background-color:#DEDEDE;">
+    <h1 style="margin:0px;text-align:center;background-color:blue;padding:5px;color:white;">wehelp申請書</h1>
+    <div style="width: 800px;margin-left: auto;margin-right: auto;margin-top: 10px;">
+        <div style="text-align:center;font-weight:bold;font-size: 15px;">兩百字內的個人簡介</div>
+        <hr/>
+        <div>
+            彭彭老師您好，我是蘇倫傑，目前是大同大學肄業，本來就讀的科系是事業經營學系(相當於企管)，在大二下學期時漸漸發覺所學的科目與我的興趣有差異，
+            所以我覺得應該去學個技能。回想在高中的程式課，我很喜歡程式在解題的感覺，很有成就感，我當時就決定要學程式。在我要自學python的時候，在youtube
+            上看到彭彭老師的課程，老師教學方式深入淺出、清晰易懂，當時就下定決心要先賺學費再來上課。
+        </div>
+        <hr/>
+        <div style="text-align:center;font-weight:bold;font-size: 15px;">為了成為軟體工程師，曾做過什麼努力？</div>
+        <hr/>
+        <div>
+            有自學完彭彭老師的python課程，看過 精通 Python：運用簡單的套件進行現代運算（第二版）一半
+        </div>
+        <hr/>
+        <div style="text-align:center;font-weight:bold;font-size: 15px;">如果參與這個計畫，會怎麼安排學習時間？</div>
+        <hr/>
+        <div>
+            我會先安排規律運動，早上8點游泳，9點到12點學習，下午2點到6點學習，晚上8點到10點學習，11點睡覺。
+        </div>
+        <hr/>
+        <div style="text-align:center;font-weight:bold;font-size: 15px;">是否有想要加入的軟體公司？為什麼想加入該公司？</div>
+        <hr/>
+        <div>
+            目前沒有，偏向新創軟體公司。我覺得是新創自由，充滿未知的挑戰環境，能接觸的東西比較廣泛，當然風險很大，到時候會再去了解創辦人背景。
+        <hr/>
+        <div style="text-align:center;font-weight:bold;font-size: 15px;">請描述一件你曾經碰到最困難的事情，如何克服？</div>
+        <hr/>
+        <div>
+            當時冬天在抹茶山爬山過夜，溫度很低，裹著睡袋還會冷，當晚硬著頭皮撐過去就行了
+        </div>
+        <hr/>
+        <div style="text-align:center;font-weight:bold;font-size: 15px;">關於這份申請網頁，請分享一個你開發時的技術心得</div>
+        <hr/>
+        <div>
+            要小心別拼錯字
+        </div>
+    </div>
+    
+</body>
+
+
+</html>
